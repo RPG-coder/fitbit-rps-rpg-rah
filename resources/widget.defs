@@ -3,4 +3,17 @@
     <link rel="stylesheet" href="styles.css" />
     <link rel="import" href="/mnt/sysassets/system_widget.defs" />
   </defs>
+
+  <symbol id="r2p" href="#sprite-image">
+    <animate id="anim1" attributeName="value" begin="enable"
+        from="1" to="6" dur="1.5" repeatCount="1" final="restore"/>
+    <image href="r2p_1.png"/>
+  </symbol>
+
+  <symbol id="r2s" href="#sprite-image">
+    <animate id="anim2" attributeName="value" begin="enable"
+        from="1" to="6" dur="1.5" repeatCount="1" final="restore" />
+    <image href="r2s_1.png" />
+  </symbol>
+
 </svg>

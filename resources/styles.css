@@ -1,12 +1,60 @@
+/*
+    Rock Paper Scissor | style.css
+    Copyright (C) 2022  Rahul Gautham Putcha
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+  Developer Name: Rahul Gautham Putcha
+  Email: rahulgputcha@gmail.com
+  Website: https://www.rahulgputcha.com
+*/
 .defaultText {
-  font-size: 32;
+  font-size: 20;
   font-family: System-Regular;
   font-weight: regular;
-  text-length: 32;
 }
 
-#background {
-  width: 100%;
-  height: 100%;
+.bg {fill: white;}
+#playground{display: none;}
+#end-game{display: none;}
+#h1{
+  fill: black;
+  font-size: 32;
+}
+#h6{
+  fill: #959595;
+  font-size: 13;
+}
+#h2{
+  fill: black;
+  font-size: 35;
+}
+
+
+.txt-white{ 
+  font-size: 28;
   fill: white;
+}
+
+image{
+  width: 130;
+  height: 130;
+}
+
+#paper-choice{
+  display: none;
+}
+#scissor-choice{
+  display:none;
 }
