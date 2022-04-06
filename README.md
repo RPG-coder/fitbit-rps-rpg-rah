@@ -34,6 +34,17 @@ Also, I would be happy to take any of your precious reviews into account and mak
 
 Hoping you have a great experience.
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/RPG-coder/fitbit-rps-rpg-rah/blob/main/screenshot/sense_1.png" width="336" />
+  <img src="https://github.com/RPG-coder/fitbit-rps-rpg-rah/blob/main/screenshot/sense_2.png" width="336" /> 
+  <img src="https://github.com/RPG-coder/fitbit-rps-rpg-rah/blob/main/screenshot/sense_3.png" width="336" />
+  <img src="https://github.com/RPG-coder/fitbit-rps-rpg-rah/blob/main/screenshot/sense_4.png" width="336" />
+  <img src="https://github.com/RPG-coder/fitbit-rps-rpg-rah/blob/main/screenshot/sense_5.png" width="336" />
+</p>
+
+
 <hr>
 
 ##### Developed by RPG~RAH (Rahul Putcha Gautham)
