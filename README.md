@@ -1,5 +1,6 @@
-# fitbit-rps-rpg-rah
-Fitbit app for Rock Paper Scissor by RPG~RAH
+<h1 align="center">Fitbit app for Rock Paper Scissor</h1>
+<h5 align="center">Designed by RPG~RAH</h5>
+<h6 align="center">Under GPLv3 License</h6>
 
 Rock Paper Scissor is a hand game, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". 
 
@@ -47,6 +48,7 @@ Hoping you have a great experience.
 
 <hr>
 
+##### License: Under GPLv3 License
 ##### Developed by RPG~RAH (Rahul Putcha Gautham)
 ##### Email: rahulgputcha@gmail.com
 ##### Website: https://www.rahulgputcha.com
