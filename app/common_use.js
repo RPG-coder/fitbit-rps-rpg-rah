@@ -28,7 +28,7 @@ if (!dev.screen) dev.screen = { width: 348, height: 250 };
 let activateSettings = true, onSettings = false;
 export const device = dev;
 
-let delay = 5;
+let delay = 15;
 export const setDelay = (delayVal) => {
     delay = delayVal;
 }

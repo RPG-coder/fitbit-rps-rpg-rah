@@ -46,6 +46,8 @@ document.getElementById("setting-reset-btn").addEventListener("mouseup", ()=>{
     writeWins(0,0);
     playerWins = 0;
     comWins = 0;
+    document.getElementById("player-wins").text = "0000";
+    document.getElementById("com-wins").text = "0000";
 });
 
 // Dynamic asset transform settings: One Time execution
@@ -58,8 +60,8 @@ comSprite.groupTransform.rotate.angle = 180;
 
 playerText.x = 50;
 comText.x = -83;
-playerText.y = -5;
-comText.y = 5;
+playerText.y = -10;
+comText.y = 10;
 // let clickY=0, ignoreClick=false;
 // document.getElementById("choose-btn").addEventListener("mousemove", (evt)=>{
 //     if((clickY-evt.screenY) < 10 || (clickY-evt.screenY) < -10)
@@ -171,7 +173,7 @@ const dibs = (comMove,playerMove)=>{
             playerSprite.groupTransform.rotate.angle = 0;
             rps(comMove, playerMove);
         }
-    }, 300);
+    }, 100);
     
 }
 

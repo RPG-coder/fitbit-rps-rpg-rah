@@ -22,7 +22,7 @@ The game rules are super simple:
 - Rich user interface
 - Smooth interactive playing and wide gameplay option
 - Great gameplay animations
-- Computer player simulation that challenges you to make your guess for a win?
+- Computer player simulation that challenges you to make your guess for a win.
 - Persistent record of Com vs Player wins
 - Interactive timer for you to take time at your guess
 
